@@ -32,7 +32,7 @@ navigation:
   - name: Amazing People
     url: 'http://amazingpeople.only-amazing.com/'
     type: external
-  - name: AmazingExperiences
+  - name: Amazing Experiences
     url: 'http://amazingexperience.only-amazing.com/'
     type: external
   - name: AmazingWorld
