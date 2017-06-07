@@ -35,7 +35,7 @@ navigation:
   - name: Amazing Experiences
     url: 'http://amazingexperience.only-amazing.com/'
     type: external
-  - name: AmazingWorld
+  - name: Amazing World
     url: 'http://amazingworld.only-amazing.com/'
     type: external
   - name: AmazingScience
