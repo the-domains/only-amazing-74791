@@ -32,9 +32,6 @@ navigation:
   - name: AmazingWorld
     url: 'http://amazingworld.only-amazing.com/'
     type: external
-  - name: AmazingCauses
-    url: 'http://amazingcause.only-amazing.com/'
-    type: external
   - name: AmazingExperiences
     url: 'http://amazingexperience.only-amazing.com/'
     type: external
@@ -43,6 +40,9 @@ navigation:
     type: external
   - name: Amazing People
     url: 'http://amazingpeople.only-amazing.com/'
+    type: external
+  - name: AmazingCauses
+    url: 'http://amazingcause.only-amazing.com/'
     type: external
   - name: Contact us
     id: 2bc3d7c1-7ac1-41bb-89b3-44a016681ff8
