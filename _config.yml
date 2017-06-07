@@ -38,7 +38,7 @@ navigation:
   - name: Amazing World
     url: 'http://amazingworld.only-amazing.com/'
     type: external
-  - name: AmazingScience
+  - name: Amazing Science
     url: 'http://amazingscience.only-amazing.com/'
     type: external
   - name: AmazingCauses
