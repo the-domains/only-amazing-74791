@@ -41,7 +41,7 @@ navigation:
   - name: Amazing Science
     url: 'http://amazingscience.only-amazing.com/'
     type: external
-  - name: AmazingCauses
+  - name: Amazing Causes
     url: 'http://amazingcause.only-amazing.com/'
     type: external
   - name: Contact us
