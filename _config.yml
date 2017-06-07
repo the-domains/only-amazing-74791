@@ -1,0 +1,132 @@
+typography_spectrum: 0.3753006736215868
+color:
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  brandStrength: 0.5442296773754061
+  lightness: 0.294768909955637
+  saturation: 0.3904059022251
+  rhythmicContrast: 0.058805855297216096
+layout_spectrum: 0.4817580053294169
+analytics:
+  google: UA-98687120-1
+author:
+  name: Jochem Herber
+  email: Jochemherber@gmail.com
+name: Only amazing
+url: 'https://only-amazing.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: AmazingTechnology
+    url: 'http://amazingtech.only-amazing.com/'
+    type: external
+  - name: AmazingWorld
+    url: 'http://amazingworld.only-amazing.com/'
+    type: external
+  - name: AmazingCauses
+    url: 'http://amazingcause.only-amazing.com/'
+    type: external
+  - name: AmazingExperiences
+    url: 'http://amazingexperience.only-amazing.com/'
+    type: external
+  - name: AmazingScience
+    url: 'http://amazingscience.only-amazing.com/'
+    type: external
+  - name: Amazing People
+    url: 'http://amazingpeople.only-amazing.com/'
+    type: external
+  - name: Contact us
+    id: 2bc3d7c1-7ac1-41bb-89b3-44a016681ff8
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d1ddbae-14e1-4fe5-a758-dbc92b68745d.jpg
+title: Only Amazing
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9g3Jbs2wdIE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9g3Jbs2wdIE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9g3Jbs2wdIE%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=9g3Jbs2wdIE'
+      keywords:
+        - amazing talents people
+        - amazing people
+        - amazing talents
+        - amazing world
+        - viral video
+        - viral fever
+        - people talent compilation
+        - funny
+        - indian funny
+        - top 10
+        - ski...
+      related: []
+      author:
+        - name: AMAZING WORLD
+          url: 'https://www.youtube.com/channel/UCdzXiM9cX0APC9ud7u-Zang'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: 'amazing people talent compilation #3'
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=9g3Jbs2wdIE&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=9g3Jbs2wdIE&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=9g3Jbs2wdIE&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=9g3Jbs2wdIE&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=9g3Jbs2wdIE&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=9g3Jbs2wdIE'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=9g3Jbs2wdIE
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=9g3Jbs2wdIE
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: Uploaded by AMAZING WORLD on 2017-05-14.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Find #YourAmazing'
+github: true
