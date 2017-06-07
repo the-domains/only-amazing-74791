@@ -26,7 +26,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: AmazingTechnology
+  - name: Amazing Technology
     url: 'http://amazingtech.only-amazing.com/'
     type: external
   - name: Amazing People
