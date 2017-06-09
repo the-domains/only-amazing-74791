@@ -4,8 +4,8 @@ description: >-
   The world is amazing and here you will find a lot of amazing things that are
   happening in the world. From nature to the great incentives to preserve our
   beautiful world.
-dateModified: '2017-06-09T15:10:55.355Z'
-datePublished: '2017-06-09T15:11:15.277Z'
+dateModified: '2017-06-09T15:12:16.584Z'
+datePublished: '2017-06-09T15:12:16.895Z'
 title: '#AmazingWorld'
 author:
   - name: '#AmazingWorld'
