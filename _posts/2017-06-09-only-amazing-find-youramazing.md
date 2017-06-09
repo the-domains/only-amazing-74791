@@ -5,8 +5,8 @@ description: >-
   things, all of us are looking for an amazing experience, there are many
   scientific breakthroughs that will change our lives forever and what about the
   latest technological advancements?
-dateModified: '2017-06-09T14:49:00.702Z'
-datePublished: '2017-06-09T14:49:01.175Z'
+dateModified: '2017-06-09T14:50:38.095Z'
+datePublished: '2017-06-09T14:50:38.746Z'
 title: Only Amazing find Your Amazing
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ datePublishedOriginal: '2017-06-09T14:47:18.759Z'
 _type: Blurb
 
 ---
-# Only Amazing find Your Amazing
+## Only Amazing find Your Amazing
 
 We live in an era where amazing things happen; people do the most amazing things, all of us are looking for an amazing experience, there are many scientific breakthroughs that will change our lives forever and what about the latest technological advancements?
 
