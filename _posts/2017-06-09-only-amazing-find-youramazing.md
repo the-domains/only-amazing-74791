@@ -5,8 +5,8 @@ description: >-
   live, technological advancements allow us to live our lives happier, healthier
   or simply more fun. People are looking for amazing experiences and we all
   enjoy life, whether it is in nature or in the city.
-dateModified: '2017-06-09T15:13:41.888Z'
-datePublished: '2017-06-09T15:13:42.360Z'
+dateModified: '2017-06-09T15:14:36.951Z'
+datePublished: '2017-06-09T15:14:37.358Z'
 title: Only Amazing find Your Amazing
 author: []
 publisher: {}
