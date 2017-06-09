@@ -1,4 +1,5 @@
-typography_spectrum: 0.3753006736215868
+layout_spectrum: 0.642025095072787
+typography_spectrum: 0.9860457759029647
 color:
   brandColors:
     - '#2F2933'
@@ -6,11 +7,10 @@ color:
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
-  brandStrength: 0.5442296773754061
-  lightness: 0.294768909955637
-  saturation: 0.3904059022251
-  rhythmicContrast: 0.058805855297216096
-layout_spectrum: 0.4817580053294169
+  brandStrength: 0.5708230387477554
+  lightness: 0.6898275799709972
+  saturation: 0.45031609792437516
+  rhythmicContrast: 0.6586926552328733
 analytics:
   google: UA-98687120-1
 author:
@@ -26,23 +26,23 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: AmazingWorld
-    url: 'http://amazingworld.only-amazing.com/'
-    type: external
-  - name: AmazingCauses
-    url: 'http://amazingcause.only-amazing.com/'
-    type: external
-  - name: AmazingExperiences
-    url: 'http://amazingexperience.only-amazing.com/'
-    type: external
-  - name: AmazingTechnology
+  - name: Amazing Technology
     url: 'http://amazingtech.only-amazing.com/'
-    type: external
-  - name: AmazingScience
-    url: 'http://amazingscience.only-amazing.com/'
     type: external
   - name: Amazing People
     url: 'http://amazingpeople.only-amazing.com/'
+    type: external
+  - name: Amazing Experiences
+    url: 'http://amazingexperience.only-amazing.com/'
+    type: external
+  - name: Amazing World
+    url: 'http://amazingworld.only-amazing.com/'
+    type: external
+  - name: Amazing Science
+    url: 'http://amazingscience.only-amazing.com/'
+    type: external
+  - name: Amazing Causes
+    url: 'http://amazingcause.only-amazing.com/'
     type: external
   - name: Contact us
     id: 2bc3d7c1-7ac1-41bb-89b3-44a016681ff8
