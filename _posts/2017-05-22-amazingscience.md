@@ -4,8 +4,8 @@ description: >-
   Find the most inspiring scientist, talks and developments. Science really is
   there for all of us to learn from, to be inspired and to enjoy.
   #AmazingScience made available for everyone.
-dateModified: '2017-06-09T15:10:55.353Z'
-datePublished: '2017-06-09T15:11:15.278Z'
+dateModified: '2017-06-09T15:12:16.584Z'
+datePublished: '2017-06-09T15:12:16.912Z'
 title: '#AmazingScience'
 author: []
 publisher:
