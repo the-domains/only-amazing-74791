@@ -7,8 +7,8 @@ description: >-
   enjoy life, whether it is in nature or in the city. The world is an amazing
   place and it is our passion to share all the amazing the world has to offer
   with you!
-dateModified: '2017-06-09T15:18:49.083Z'
-datePublished: '2017-06-09T15:18:49.541Z'
+dateModified: '2017-06-09T15:19:48.567Z'
+datePublished: '2017-06-09T15:19:49.126Z'
 title: Only Amazing find Your Amazing
 author: []
 publisher: {}
@@ -21,7 +21,6 @@ _type: Blurb
 
 ---
 ## Only Amazing find Your Amazing
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c23f8ae-d48f-48e0-a398-aa41baf728b1.jpg)
 
 _We live in the most exciting times, scientific breakthroughs change the way we live, technological advancements allow us to live our lives happier, healthier or simply more fun. People are looking for amazing experiences and we all enjoy life, whether it is in nature or in the city. The world is an amazing place and it is our passion to share all the amazing the world has to offer with you!_
 
