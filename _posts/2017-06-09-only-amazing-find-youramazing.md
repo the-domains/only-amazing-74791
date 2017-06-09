@@ -5,8 +5,8 @@ description: >-
   things, all of us are looking for an amazing experience, there are many
   scientific breakthroughs that will change our lives forever and what about the
   latest technological advancements?
-dateModified: '2017-06-09T14:48:40.479Z'
-datePublished: '2017-06-09T14:48:41.098Z'
+dateModified: '2017-06-09T14:49:00.702Z'
+datePublished: '2017-06-09T14:49:01.175Z'
 title: Only Amazing find Your Amazing
 author: []
 publisher: {}
