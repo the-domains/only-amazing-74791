@@ -4,21 +4,21 @@ description: >-
   Even if you don’t even like practicing sports, #AmazingSports and achievements
   by Amazing people are loved by many of us. We dedicate our energy to sharing
   great moments in sports with you.
-dateModified: '2017-06-15T14:34:28.184Z'
-datePublished: '2017-06-15T14:34:28.485Z'
-title: Amazing Sports
+dateModified: '2017-06-15T14:36:22.562Z'
+datePublished: '2017-06-15T14:36:23.253Z'
+title: 'Today’s featured content: Amazing Sports'
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-06-15-amazing-sports.md
-datePublishedOriginal: '2017-06-15T14:34:28.485Z'
 starred: false
+datePublishedOriginal: '2017-06-15T14:34:28.485Z'
 url: amazing-sports/index.html
 _type: Article
 
 ---
-# Amazing Sports
+# Today's featured content: Amazing Sports
 
 Even if you don't even like practicing sports, \#AmazingSports and achievements by Amazing people are loved by many of us. We dedicate our energy to sharing great moments in sports with you.
 
