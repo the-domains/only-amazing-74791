@@ -47,6 +47,66 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d1ddbae-14e1-4fe5-a758-dbc92b68745d.jpg
 title: Only Amazing
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F58381735&url=https%3A%2F%2Fvimeo.com%2F58381735&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F405137448_640.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Success Together
+          url: 'https://vimeo.com/user3665343'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        domain: vimeo.com
+      keywords: []
+      description: >-
+        Repost from Hadouken on YouTube: Here are some of the videos we used
+        (and a few great ones that didn't make it). Check out the originals and
+        support their channels!
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vimeo://app.vimeo.com/videos/58381735'
+          type: ios
+          namespace: ai
+          app_name: Vimeo
+          app_store_id: '425194759'
+        - should_fallback: 'true'
+          app_name: Vimeo
+          package: com.vimeo.android.videoapp
+          url: 'vimeo://app.vimeo.com/videos/58381735'
+          namespace: ai
+          type: web
+        - url: 'vimeo://app.vimeo.com/videos/58381735'
+          namespace: twitter
+          type: ipad
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/58381735'
+          namespace: twitter
+          type: iphone
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/58381735'
+          namespace: twitter
+          type: googleplay
+          name: Vimeo
+          id: com.vimeo.android.videoapp
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://vimeo.com/58381735'
+      title: PEOPLE ARE AWESOME 2013
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Find #YourAmazing'
 github: true
