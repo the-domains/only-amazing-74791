@@ -5,8 +5,8 @@ description: >-
   something amazing to share and you’d like to see it featured here? Just let us
   know. Only-Amazing.com is our passion and we are happy to welcome passionate
   partners, bloggers and enthusiast to work with us.
-dateModified: '2017-07-16T11:31:56.312Z'
-datePublished: '2017-07-16T11:31:56.989Z'
+dateModified: '2017-07-16T11:32:59.021Z'
+datePublished: '2017-07-16T11:32:59.663Z'
 title: 'We will continue bringing you #YourAmazing.'
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ datePublishedOriginal: '2017-06-06T15:16:45.288Z'
 _type: MediaObject
 
 ---
-## We will continue bringing you \#YourAmazing.
+# We will continue bringing you \#YourAmazing.
 
 To all amazing people: Feel free to share your thoughts with us. Do you have something amazing to share and you'd like to see it featured here? Just let us know. Only-Amazing.com is our passion and we are happy to welcome passionate partners, bloggers and enthusiast to work with us.
 
