@@ -46,7 +46,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d1ddbae-14e1-4fe5-a758-dbc92b68745d.jpg
-title: Only Amazing
+title: 'This is where you will find #YourAmazing'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -72,7 +72,6 @@ content:
         Repost from Hadouken on YouTube: Here are some of the videos we used
         (and a few great ones that didn't make it). Check out the originals and
         support their channels!
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vimeo://app.vimeo.com/videos/58381735'
