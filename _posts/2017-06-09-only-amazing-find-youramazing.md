@@ -7,8 +7,8 @@ description: >-
   enjoy life, whether it is in nature or in the city. The world is an amazing
   place and it is our passion to share all the amazing the world has to offer
   with you!
-dateModified: '2017-06-24T07:34:08.120Z'
-datePublished: '2017-06-24T07:34:08.375Z'
+dateModified: '2017-07-16T10:53:29.497Z'
+datePublished: '2017-07-16T10:53:29.691Z'
 title: Find Your Amazing
 author: []
 publisher: {}
