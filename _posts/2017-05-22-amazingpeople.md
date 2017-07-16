@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   People who do amazing things, young and old, famous or simple people like you
   and me. Draw inspiration from #AmazingPeople
-dateModified: '2017-07-16T10:56:46.297Z'
-datePublished: '2017-07-16T10:57:55.369Z'
+dateModified: '2017-07-16T10:58:04.312Z'
+datePublished: '2017-07-16T10:58:04.433Z'
 title: '#AmazingPeople'
 author: []
 publisher: {}
