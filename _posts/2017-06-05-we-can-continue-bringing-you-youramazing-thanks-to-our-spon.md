@@ -5,19 +5,20 @@ description: >-
   something amazing to share and you’d like to see it featured here? Just let us
   know. Only-Amazing.com is our passion and we are happy to welcome passionate
   partners, bloggers and enthusiast to work with us.
-dateModified: '2017-07-16T11:29:58.855Z'
-datePublished: '2017-07-16T11:29:59.326Z'
+dateModified: '2017-07-16T11:31:47.260Z'
+datePublished: '2017-07-16T11:31:47.788Z'
 title: 'We will continue bringing you #YourAmazing.'
 author: []
 publisher: {}
 via: {}
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJxdUMtugzAQvPMVLqfkYIhxQ8MrX9Bbj1UPi22BU9d2WSOCmv57iZJWqHucx2pmahSD9oEAzlYQHEQTp6mHToHMks65zqiFkVpA0M4mwn3c2fSEKUhs55soOWF8rNPbt2NUP1BKnmHoFHn5HGFQhNIF1RaJMIDYxCtvHJHrYZiNamKp0RuYS22Ntoq2xon3atIy9CXnuT9XvdJdH8rssPPnu1VCAAqSCqOVDU0sgPqxpXues6LgRc4yVuwL9k-Nxi3agmVP_MD44-5aYEm45PytsVmlJA2ZtJVuStbg5UJe37aJH7HffH1vq-hvgx9XAHC4
 sourcePath: >-
   _posts/2017-06-05-we-can-continue-bringing-you-youramazing-thanks-to-our-spon.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-06-06T15:16:45.288Z'
-url: we-will-continue-bringing-you-youramazing/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ## We will continue bringing you \#YourAmazing.
