@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-08T08:10:32.385Z'
-datePublished: '2017-08-08T08:10:32.840Z'
+dateModified: '2017-08-08T08:11:45.558Z'
+datePublished: '2017-08-08T08:11:47.720Z'
 title: Featured Content
 author: []
 publisher: {}
@@ -18,6 +18,6 @@ _type: MediaObject
 ---
 ## Featured Content
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw1zDEOgCAMQNGrsDEJzgS4C0LVJkBNIRo8vYO6_pd8iyuHAqJxdHLv_TBahxJurNtFnJOimsf0FRWp_Io1Qu14QtNStD4yOLkQJ2AzS2_1-_XiAeOgIzg" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkMtSwzAMRX9FGyYb8gCmLJzHvzi22oixrYwtEgrDv2OSdlHKTvbV6Jy5XZKzw6FCP6ItDQfRFDDCF8ycSIiDgohOCy3YwqytpXAqRxZhr-DwWj0fHlqYkE6TKHhpmhZ4wXh0vCqYyFoMLXj9Ua5kZVLw1DR5_xvugHSM2uPjfcDjGxr5J9jeN6J6TOzeJYsKzwqyi8OjbMMN_qp7kenqvYTO0gLG6ZT64g-sGLpdEFI0fTGJzKqutdefuY6Vo7MVB3cuLz-VYX9NKRgMv_WluoAN1BcjR4tRNflsvd_NQ6YPP0o7id0" height="300" style=""></iframe>
 
 ---
