@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Any amazing game for any platform with a special focus on the latest trends on
   for example Holograms and VR gaming. Stay tuned!
-dateModified: '2017-08-08T08:02:12.794Z'
-datePublished: '2017-08-08T08:02:13.099Z'
+dateModified: '2017-08-08T08:03:11.079Z'
+datePublished: '2017-08-08T08:03:11.293Z'
 title: Amazing Gaming
 author: []
 publisher: {}
