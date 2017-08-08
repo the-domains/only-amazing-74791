@@ -4,9 +4,9 @@
         <description><![CDATA[This is where you will find #YourAmazing]]></description>
         <link>http://only-amazing.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Aug 2017 07:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2017 07:52:08 GMT</lastBuildDate>
         <atom:link href="http://only-amazing.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Aug 2017 07:49:37 GMT</pubDate>
+        <pubDate>Tue, 08 Aug 2017 07:52:07 GMT</pubDate>
         <item>
             <title><![CDATA[Every day Amazing Tech]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aced8fd3-30b0-4e85-9609-85c1bedb421d.jpg" title="Every day Amazing Tech" alt="Every day technology that makes our lives easier, more comfortable or simply more fun!">,<a href="http://amazingtech.only-amazing.com/amazing-every-day-technology/" data-role="cta">Amazing every-day tech</a>]]></description>
@@ -41,6 +41,13 @@
             <link>http://amazingscience.only-amazing.com/fun-science/</link>
             <guid isPermaLink="false">a086dc82-6e21-4051-8b45-4eba0971d7b6</guid>
             <pubDate>Tue, 08 Aug 2017 07:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#AmazingSports]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b50394c7-ec8b-42b7-95ea-a326f4f8587d.jpg" title="#AmazingSports" alt="Find #YourAmazing sport moments, from the big league players to hyper-local superheroes. We selected some of the most amazing moments in Sports history for you to enjoy.">,<a href="http://amazingexperience.only-amazing.com/amazing-sports/" data-role="cta">Amazing Sports</a>]]></description>
+            <link>http://amazingexperience.only-amazing.com/amazing-sports</link>
+            <guid isPermaLink="false">6c9dfc0a-b50c-46bc-bf8a-0f12beec4ae0</guid>
+            <pubDate>Tue, 08 Aug 2017 07:52:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Featured Content]]></title>
