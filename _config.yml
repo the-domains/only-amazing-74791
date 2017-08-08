@@ -115,3 +115,6 @@ purpose:
   - type: external
     url: 'http://amazingtech.only-amazing.com/'
     label: '#AmazingTech'
+  - type: external
+    url: 'http://amazingpeople.only-amazing.com/'
+    label: '#AmazingPeople'
