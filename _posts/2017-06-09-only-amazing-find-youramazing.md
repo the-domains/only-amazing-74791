@@ -7,8 +7,8 @@ description: >-
   enjoy life, whether it is in nature or in the city. The world is an amazing
   place and it is our passion to share all the amazing the world has to offer
   with you!
-dateModified: '2017-08-08T08:41:31.575Z'
-datePublished: '2017-08-08T08:41:32.530Z'
+dateModified: '2017-08-08T15:12:13.113Z'
+datePublished: '2017-08-08T15:12:13.645Z'
 title: 'Find #YourAmazing'
 author: []
 publisher: {}
@@ -26,6 +26,11 @@ _type: Blurb
 [\#AmazingPeople][2]
 [\#AmazingExperience][3]
 [\#AmazingWorld][4]
+[\#AmazingTech][0]
+[\#AmazingScience][1]
+[\#AmazingPeople][2]
+[\#AmazingExperience][3]
+[\#AmazingWorld][4]
 
 We live in the most exciting times, scientific breakthroughs change the way we live, technological advancements allow us to live our lives happier, healthier or simply more fun. People are looking for amazing experiences and we all enjoy life, whether it is in nature or in the city. The world is an amazing place and it is our passion to share all the amazing the world has to offer with you!
 
@@ -38,11 +43,6 @@ This website is very much a passion project and runs on the support of passionat
 This website is for the wonderful, the few, the many, the passionate, the culturist, the futurist, the lovers, the students, the teachers the old and the young. We are all passionate about something and we aim to share as much amazing content for all of us to find something we love.
 
 We currently give you the most amazing stuff in the topics: _Tech, People, Experience, Science & the wonderful World._
-[\#AmazingTech][0]
-[\#AmazingPeople][2]
-[\#AmazingExperience][3]
-[\#AmazingScience][1]
-[\#AmazingWorld][4]
 
 [0]: http://amazingtech.only-amazing.com/
 [1]: http://amazingscience.only-amazing.com/
