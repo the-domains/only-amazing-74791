@@ -115,6 +115,3 @@ purpose:
   - type: external
     url: 'http://amazingpeople.only-amazing.com/'
     label: '#AmazingPeople'
-  - type: external
-    url: 'http://amazingtech.only-amazing.com/'
-    label: '#AmazingTech'
