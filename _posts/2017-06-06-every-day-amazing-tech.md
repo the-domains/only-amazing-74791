@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Every day technology that makes our lives easier, more comfortable or simply
   more fun!
-dateModified: '2017-08-08T07:00:30.217Z'
-datePublished: '2017-08-08T07:00:31.203Z'
+dateModified: '2017-08-08T07:03:26.402Z'
+datePublished: '2017-08-08T07:03:27.041Z'
 title: Every day Amazing Tech
 author: []
 publisher: {}
