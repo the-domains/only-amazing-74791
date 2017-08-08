@@ -7,8 +7,8 @@ description: >-
   enjoy life, whether it is in nature or in the city. The world is an amazing
   place and it is our passion to share all the amazing the world has to offer
   with you!
-dateModified: '2017-08-08T07:39:18.392Z'
-datePublished: '2017-08-08T07:39:18.542Z'
+dateModified: '2017-08-08T07:41:37.943Z'
+datePublished: '2017-08-08T07:41:38.817Z'
 title: 'Find #YourAmazing'
 author: []
 publisher: {}
@@ -20,13 +20,12 @@ datePublishedOriginal: '2017-06-09T14:47:18.759Z'
 _type: Blurb
 
 ---
+## Find \#YourAmazing
 [\#AmazingTech][0]
 [\#AmazingScience][1]
 [\#AmazingPeople][2]
 [\#AmazingExperience][3]
 [\#AmazingWorld][4]
-
-## Find \#YourAmazing
 
 We live in the most exciting times, scientific breakthroughs change the way we live, technological advancements allow us to live our lives happier, healthier or simply more fun. People are looking for amazing experiences and we all enjoy life, whether it is in nature or in the city. The world is an amazing place and it is our passion to share all the amazing the world has to offer with you!
 
