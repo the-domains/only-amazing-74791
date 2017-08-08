@@ -4,8 +4,8 @@ description: >-
   Technological advances isn't only great fun, it is also what drives
   businesses, economies and societies as a whole. We aim to gather all the
   #AmazingTechnologies for your inspiration
-dateModified: '2017-08-08T07:05:12.528Z'
-datePublished: '2017-08-08T07:05:12.848Z'
+dateModified: '2017-08-08T07:09:13.155Z'
+datePublished: '2017-08-08T07:09:13.646Z'
 title: Amazing Tech
 author: []
 publisher: {}
