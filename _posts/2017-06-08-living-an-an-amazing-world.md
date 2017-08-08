@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   The world is an amazing place and we offer the best content about life in
   general, whether it is city life or the beauty of nature. 
-dateModified: '2017-08-08T08:06:19.156Z'
-datePublished: '2017-08-08T08:06:19.428Z'
+dateModified: '2017-08-08T08:41:31.575Z'
+datePublished: '2017-08-08T08:41:32.524Z'
 title: Living an an amazing world
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-08-living-an-an-amazing-world.md
 isBasedOnUrl: 'http://amazingworld.only-amazing.com/living-in-an-amazing-world'
-datePublishedOriginal: '2017-08-08T08:06:19.428Z'
 starred: false
+datePublishedOriginal: '2017-08-08T08:06:19.428Z'
 _type: MediaObject
 
 ---
