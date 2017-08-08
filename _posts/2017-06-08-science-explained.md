@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   What will our future look like? Ask the best futurist and they will give you
   inspiring answers. Stay tuned for updates.
-dateModified: '2017-08-08T07:49:04.609Z'
-datePublished: '2017-08-08T07:49:04.873Z'
+dateModified: '2017-08-08T07:49:34.507Z'
+datePublished: '2017-08-08T07:49:34.786Z'
 title: Science explained
 author: []
 publisher:
@@ -13,8 +13,8 @@ publisher:
 via: {}
 sourcePath: _posts/2017-06-08-science-explained.md
 isBasedOnUrl: 'http://amazingscience.only-amazing.com/science-explained'
-datePublishedOriginal: '2017-08-08T07:49:04.873Z'
 starred: false
+datePublishedOriginal: '2017-08-08T07:49:04.873Z'
 _type: MediaObject
 
 ---
