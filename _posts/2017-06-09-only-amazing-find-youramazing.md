@@ -7,9 +7,9 @@ description: >-
   enjoy life, whether it is in nature or in the city. The world is an amazing
   place and it is our passion to share all the amazing the world has to offer
   with you!
-dateModified: '2017-07-16T10:53:29.497Z'
-datePublished: '2017-07-16T10:53:29.691Z'
-title: Find Your Amazing
+dateModified: '2017-08-08T06:56:26.427Z'
+datePublished: '2017-08-08T06:56:27.152Z'
+title: 'Find #YourAmazing'
 author: []
 publisher: {}
 via: {}
@@ -20,17 +20,15 @@ datePublishedOriginal: '2017-06-09T14:47:18.759Z'
 _type: Blurb
 
 ---
-## Find Your Amazing
+## Find \#YourAmazing
 
 We live in the most exciting times, scientific breakthroughs change the way we live, technological advancements allow us to live our lives happier, healthier or simply more fun. People are looking for amazing experiences and we all enjoy life, whether it is in nature or in the city. The world is an amazing place and it is our passion to share all the amazing the world has to offer with you!
+
+We currently give you the most amazing stuff in the topics _Tech, Experience, Science, People & the wonderful World._
 
 ### The passion
 
 This website is very much a passion project and runs on the support of passionate people. We aim to update at least one of our sections once a day so there is something new waiting for you every day. It goes without saying that any suggestion by you is very much welcomed, only-amazing.com is a large community for many interesting people.
-
-### Our Amazing
-
-Until we can grow further we focus on the following topics: Tech, Experience, Science, People & the wonderful World. Besides that we feel the need to address amazing causes, where you can find big and small incentives where people try to make the world a better place.
 
 ### For anyone
 
