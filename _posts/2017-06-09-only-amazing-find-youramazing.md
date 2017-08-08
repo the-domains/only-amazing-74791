@@ -7,8 +7,8 @@ description: >-
   enjoy life, whether it is in nature or in the city. The world is an amazing
   place and it is our passion to share all the amazing the world has to offer
   with you!
-dateModified: '2017-08-08T07:23:41.466Z'
-datePublished: '2017-08-08T07:23:41.600Z'
+dateModified: '2017-08-08T07:24:27.128Z'
+datePublished: '2017-08-08T07:24:27.714Z'
 title: 'Find #YourAmazing'
 author: []
 publisher: {}
@@ -38,6 +38,10 @@ We currently give you the most amazing stuff in the topics: _Tech, People, Exper
 [\#AmazingExperience][2]
 [\#AmazingScience][3]
 [\#AmazingWorld][4]
+
+---
+
+
 
 [0]: http://amazingtech.only-amazing.com/
 [1]: http://amazingpeople.only-amazing.com/
