@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-08T08:07:55.787Z'
-datePublished: '2017-08-08T08:07:56.481Z'
+dateModified: '2017-08-08T08:09:49.276Z'
+datePublished: '2017-08-08T08:09:50.098Z'
 title: Featured Content
 author: []
 publisher: {}
@@ -18,6 +18,6 @@ _type: MediaObject
 ---
 ## Featured Content
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXT8xNrMrMSy_PL8pJ0cvPy6nUhYroJefnwmQz85JT80oyy1KL9QFP5xVW" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw1zDEOgCAMQNGrsDEJzgS4C0LVJlBMIRo8vYO6_pd8iyuHAqJxdHLv_TBahxJupO2qnJOqlMf0FRVr-RUpAnU8oWkpWh8ZnFwqJ2AzS2_1-_UPwGgjGA" height="244" style=""></iframe>
 
 ---
