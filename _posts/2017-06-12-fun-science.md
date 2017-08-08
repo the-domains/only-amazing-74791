@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   How do you become a happier person? Want to know the tricks to persuasion or
   just want to learn fun facts? Science can be great fun.
-dateModified: '2017-08-08T07:49:04.637Z'
-datePublished: '2017-08-08T07:49:04.928Z'
+dateModified: '2017-08-08T07:49:34.507Z'
+datePublished: '2017-08-08T07:49:34.783Z'
 title: Fun Science
 author: []
 publisher:
@@ -13,8 +13,8 @@ publisher:
 via: {}
 sourcePath: _posts/2017-06-12-fun-science.md
 isBasedOnUrl: 'http://amazingscience.only-amazing.com/fun-science/'
-datePublishedOriginal: '2017-08-08T07:49:04.928Z'
 starred: false
+datePublishedOriginal: '2017-08-08T07:49:04.928Z'
 _type: MediaObject
 
 ---
