@@ -7,8 +7,8 @@ description: >-
   enjoy life, whether it is in nature or in the city. The world is an amazing
   place and it is our passion to share all the amazing the world has to offer
   with you!
-dateModified: '2017-08-08T07:01:01.353Z'
-datePublished: '2017-08-08T07:01:01.497Z'
+dateModified: '2017-08-08T07:08:56.630Z'
+datePublished: '2017-08-08T07:08:57.270Z'
 title: 'Find #YourAmazing'
 author: []
 publisher: {}
@@ -33,7 +33,6 @@ This website is very much a passion project and runs on the support of passionat
 ### For anyone
 
 This website is for the wonderful, the few, the many, the passionate, the culturist, the futurist, the lovers, the students, the teachers the old and the young. We are all passionate about something and we aim to share as much amazing content for all of us to find something we love.
+[\#AmazingTech][0]
 
-Please contact us if you'd like to participate, have something amazing to share?
-
----
+[0]: http://amazingtech.only-amazing.com/
