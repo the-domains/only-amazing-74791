@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Every day technology that makes our lives easier, more comfortable or simply
   more fun!
-dateModified: '2017-08-08T06:57:42.343Z'
-datePublished: '2017-08-08T06:57:42.707Z'
+dateModified: '2017-08-08T07:00:30.217Z'
+datePublished: '2017-08-08T07:00:31.203Z'
 title: Every day Amazing Tech
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'http://amazingtech.only-amazing.com/amazing-every-day-technology'
 sourcePath: _posts/2017-06-06-every-day-amazing-tech.md
-datePublishedOriginal: '2017-08-08T06:57:42.707Z'
 starred: false
+datePublishedOriginal: '2017-08-08T06:57:42.707Z'
 _type: MediaObject
 
 ---
