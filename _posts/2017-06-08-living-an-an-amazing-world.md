@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   The world is an amazing place and we offer the best content about life in
   general, whether it is city life or the beauty of nature. 
-dateModified: '2017-08-08T08:41:31.575Z'
-datePublished: '2017-08-08T08:41:32.524Z'
+dateModified: '2017-08-08T15:12:26.277Z'
+datePublished: '2017-08-08T15:12:26.719Z'
 title: Living an an amazing world
 author: []
 publisher: {}
