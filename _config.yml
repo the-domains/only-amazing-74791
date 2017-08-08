@@ -111,7 +111,4 @@ description: >-
   We give you the most amazing content on the web, choose your passion and
   enjoy!
 github: true
-purpose:
-  - type: external
-    url: 'http://amazingtech.only-amazing.com/'
-    label: '#AmazingTech'
+purpose: []
