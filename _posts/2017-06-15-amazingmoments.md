@@ -4,8 +4,8 @@ description: >-
   It could be that perfect picture taken on the right moment, that moment that
   took peoples breath away or that trip to that place so few of us know. Here we
   share #AmazingMoments for all of you to see
-dateModified: '2017-08-08T07:53:08.529Z'
-datePublished: '2017-08-08T07:57:10.365Z'
+dateModified: '2017-08-08T08:00:48.632Z'
+datePublished: '2017-08-08T08:00:49.634Z'
 title: '#AmazingMoments'
 author: []
 publisher: {}
