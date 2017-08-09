@@ -1,13 +1,13 @@
 ---
 inFeed: true
 description: >-
-  To all amazing people: Feel free to share your thoughts with us. Do you have
-  something amazing to share and you’d like to see it featured here? Just let us
-  know. Only-Amazing.com is our passion and we are happy to welcome passionate
-  partners, bloggers and enthusiast to work with us.
-dateModified: '2017-08-09T07:58:22.001Z'
-datePublished: '2017-08-09T07:58:22.590Z'
-title: 'We will continue bringing you #YourAmazing.'
+  To all amazing people: We will continue to bring you the most amazing online
+  experience possible. Please understand that you might find some ads, we need
+  to do this in order to keep this community alive. Thanks for your
+  understanding.
+dateModified: '2017-08-09T08:00:15.624Z'
+datePublished: '2017-08-09T08:00:16.401Z'
+title: 'We will continue bringing you #YourAmazing'
 author: []
 publisher: {}
 via: {}
@@ -21,9 +21,9 @@ datePublishedOriginal: '2017-06-06T15:16:45.288Z'
 _type: MediaObject
 
 ---
-# We will continue bringing you \#YourAmazing.
+## We will continue bringing you \#YourAmazing
 
-To all amazing people: Feel free to share your thoughts with us. Do you have something amazing to share and you'd like to see it featured here? Just let us know. Only-Amazing.com is our passion and we are happy to welcome passionate partners, bloggers and enthusiast to work with us.
+To all amazing people: We will continue to bring you the most amazing online experience possible. Please understand that you might find some ads, we need to do this in order to keep this community alive. Thanks for your understanding.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtUNFqwzAM_JVgaN7WpFu6pVnVsZfB3vc-VNuJTR3L2M5M-vWzl4EQJ3G6O3TWo8dZVsFzYCpGF4amSSntR-TySnTbc5obZ5ZJ29AYfZN7p9yb8nKEQt89ve8eP3KRNesDznjXdio3eVUnLaKC7tjWBldaIoSIVqAXNfKoyULRq4O-SzDopwwVpe_iHCD6pczo5QaV1JOK0Lc1Ovcp4NAfD3370p1yP_XPHas2N5btWPXPZn3GIa5GAruSF9IPlqx8pR_pR0NpUFoIaTOHezImRwdmiVV_P9kOgGUJNJn85dEGlwNZvgIrodjl3Gz_u_wC4ZVyDw" height="100" style=""></iframe>
 
