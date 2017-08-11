@@ -1,12 +1,8 @@
 ---
 title: Contact us
-datePublished: '2017-08-11T09:48:25.488Z'
-dateModified: '2017-08-11T09:48:25.089Z'
-publisher:
-  url: 'http://docs.google.com'
-  name: Google Docs
-  favicon: 'https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png'
-  domain: docs.google.com
+datePublished: '2017-08-11T09:48:54.124Z'
+dateModified: '2017-08-11T09:48:53.621Z'
+publisher: {}
 author: []
 inFeed: false
 hasPage: true
